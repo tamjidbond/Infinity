@@ -1,0 +1,6 @@
+input {
+    outline: red !important;
+}
+input:focus{
+    outline: red !important;
+}
